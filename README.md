@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/Nepal/jay-sambhu.svg)](https://user-badge.committers.top/Nepal/jay-sambhu)
+[![jay-sambhu's GitHub committers.top badge](https://user-badge.committers.top/nepal/jay-sambhu.svg)](https://user-badge.committers.top/nepal/jay-sambhu)
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Bobcoder0010&label=Profile%20views&color=0e75b6&style=flat" alt="if1eight0sty" />
 </p>
